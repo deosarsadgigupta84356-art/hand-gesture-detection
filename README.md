@@ -1,5 +1,5 @@
 # hand-gesture-detection
-Hand gesture detection using open cv and python 
+Real-time hand gesture recognition system using OpenCV and Python for gesture-based computer control.
 
 This is a basic computer vision project built using OpenCV.
 
